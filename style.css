@@ -69,6 +69,7 @@ a {
 
 #selectedImage {
     max-height: 100%;
+    max-width: 90vw;
 }
 
 @media only screen and (max-width: 600px) {
